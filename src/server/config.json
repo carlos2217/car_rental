@@ -1,0 +1,7 @@
+{
+    "userEndPoint": "http://localhost:3070/api/users",
+    "lineseEndPoint": "http://localhost:3070/api/linese",
+    "carEndPoint": "http://localhost:3070/api/cars",
+    "rentalEndPoint": "http://localhost:3070/api/rentals",
+    "orderEndPoint": "http://localhost:3070/api/orders"
+}
